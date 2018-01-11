@@ -15,3 +15,14 @@ forge "https://forge.puppet.com"
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'ntp',
+   :git => 'https://github.com/rabbitheart/LA_puppet-ntp.git',
+   :ref => 'master' 
+mod 'role',
+   :git => 'https://github.com/rabbitheart/LA_puppet-role.git',
+   :ref => 'master' 
+mod 'profile',
+   :git => 'https://github.com/rabbitheart/LA_puppet-profile.git',
+   :ref => 'master'
+

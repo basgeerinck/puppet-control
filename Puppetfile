@@ -16,6 +16,7 @@ forge "https://forge.puppet.com"
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
+# base modules
 mod 'ntp',
    :git => 'https://github.com/rabbitheart/LA_puppet-ntp.git',
    :ref => 'master' 

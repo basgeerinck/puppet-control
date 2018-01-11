@@ -27,3 +27,4 @@ mod 'profile',
    :git => 'https://github.com/rabbitheart/LA_puppet-profile.git',
    :ref => 'master'
 
+mod 'puppetlabs/stdlib', :latest
